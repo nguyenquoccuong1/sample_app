@@ -35,8 +35,14 @@ en:
       home: "Home"
       help: "Help"
       about: "About"
+      contact: "Contact"
+      signup: "Sign up"
+      signupnow: "Sign up now!"
+      login: "Log in"
+      news: "News"
       base_title: "Ruby on Rails Tutorial Sample App"
       sample: "Sample App"
+      sample: "sample app"
       content_home_html: "This is the home page for the <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a> sample application"
       line_help_html: "Get help on the Ruby on Rails Tutorial at the <a href='http://www.railstutorial.org/help'>Rails Tutorial help section</a>.
       To get help on this sample app, see the <a href='http://www.railstutorial.org/book'><em>Ruby on Rails Tutorial</em> book</a>."
@@ -47,3 +53,8 @@ en:
       to teach web development with
       <a href='http://rubyonrails.org/'>Ruby on Rails</a>.
       This is the sample application for the tutorial."
+      line_contact_html: "Contact the Ruby on Rails Tutorial about the sample app at the
+      <a href='http://www.railstutorial.org/contact'>contact page</a>."
+      line_signup: "This will be a signup page for new users."
+      content_footer_html: "The <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
+      by <a href='http://www.michaelhartl.com/'>Michael Hartl</a>"
