@@ -39,6 +39,7 @@ en:
       signup: "Sign up"
       signupnow: "Sign up now!"
       login: "Log in"
+      logout: "Log out"
       news: "News"
       base_title: "Ruby on Rails Tutorial Sample App"
       sample: "Sample App"
@@ -49,6 +50,10 @@ en:
       errors: "errors"
       confirmation: "Confirmation"
       new: "new"
+      users: "Users"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
       content_home_html: "This is the home page for the <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a> sample application"
       line_help_html: "Get help on the Ruby on Rails Tutorial at the <a href='http://www.railstutorial.org/help'>Rails Tutorial help section</a>.
       To get help on this sample app, see the <a href='http://www.railstutorial.org/book'><em>Ruby on Rails Tutorial</em> book</a>."
@@ -64,4 +69,6 @@ en:
       line_signup: "This will be a signup page for new users."
       content_footer_html: "The <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
       by <a href='http://www.michaelhartl.com/'>Michael Hartl</a>"
-      user_nil: "User does not exist"
+      user_nil: "User does not exist!"
+      mess_danger: "Invalid email/password combination"
+      newuser: "New user?"
