@@ -72,3 +72,4 @@ en:
       user_nil: "User does not exist!"
       mess_danger: "Invalid email/password combination"
       newuser: "New user?"
+      remember_me: "Remember me on this computer"
