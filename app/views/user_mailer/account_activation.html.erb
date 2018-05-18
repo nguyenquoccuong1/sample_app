@@ -1,0 +1,9 @@
+<h1><%= t("static_pages.home.sample") %></h1>
+
+<p><%= t("static_pages.home.hi") %> <%= @user.name %>,</p>
+
+<p>
+<%= t("static_pages.home.noti_mess") %>
+</p>
+
+<%= link_to t("static_pages.home.active") , edit_account_activation_url(@user.activation_token, email: @user.email) %>
